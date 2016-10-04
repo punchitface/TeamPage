@@ -1,0 +1,21 @@
+@import url("content.css");
+@import url("write__about.css");
+@import url("social-block.css");
+@import url("footer.css");
+
+@font-face {
+    font-family: Circe-Bold;
+    src: url("../fonts/Circe/Circe-Bold.ttf");
+}
+
+@font-face {
+    font-family: Circe-Regular;
+    src: url("../fonts/Circe/Circe-Regular.ttf");
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+

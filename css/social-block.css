@@ -1,0 +1,32 @@
+.team__box__social-block {
+    height: 400px;
+    width: 100%;
+    background-color: #DCDCDC;
+}
+
+.social-block__social__wrapper {
+    margin: 0 auto;
+    width: 900px;
+    height: 100%;
+}
+
+.fb-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 405px;
+    height: 340px;
+    margin-top: 30px;
+    border: 1px solid #cecece;
+    background: #fff;
+}
+
+.vk-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 405px;
+    border: 1px solid #cecece;
+    margin-left: 80px;
+    height: 340px;
+    margin-top: 30px;
+    background: #fff;
+}

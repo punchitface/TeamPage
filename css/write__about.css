@@ -1,0 +1,54 @@
+.team__box__write-about {
+    background: #ECECEC;
+}
+
+.write-about__writers {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.write-about__title {
+    text-align: center;
+    font-family: Circe-Regular, sans-serif;
+    font-size: 20pt;
+    padding-top: 30px;
+    color: #707070;
+}
+
+.img_wr {
+    width: 160px;
+    height: 100px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.expert {
+    background-image: url("../img/expert.png");
+}
+
+.like {
+    width: 110px;
+    background-image: url("../img/like.png");
+}
+
+.vedomosti {
+    background-image: url("../img/vedomosti.png");
+}
+
+.rbk {
+    background-image: url("../img/rbk.png");
+}
+
+.interfacs {
+    background-image: url("../img/interfax.png");
+}
+
+.vilage {
+    background-image: url("../img/village.png");
+}

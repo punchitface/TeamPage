@@ -1,0 +1,165 @@
+.content__team {
+    width: 1000px;
+    height: 3400px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.content__info {
+    width: 750px;
+    float: right;
+}
+
+.content__info-photo {
+    height: 450px;
+}
+
+.content__info-photo img {
+    width:750px;
+    height: 450px;
+}
+
+.content__info-text {
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+    border-bottom: 1px dashed #CCCCCC;
+}
+
+.content__info-text__title {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    font-size: 21pt;
+    color: #222;
+}
+
+.content__info-text__pre-title {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18pt;
+    font-weight: 600;
+    line-height: 1em;
+    padding-top: 10px;
+}
+
+.content__info-text__text {
+    font-family: "Open Sans", sans-serif;
+    padding-top: 20px;
+    line-height: 1.5em;
+    font-size: 10pt;
+    color: #707070;
+}
+
+.content__info__persons {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.persons__line {
+    height:520px;
+}
+
+.persons__line-person {
+    width: 350px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.persons__line-person-right {
+    width: 350px;
+    margin-left: 40px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.person-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+}
+
+.person-photo img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.person-name {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20pt;
+    padding-left: 50px;
+}
+
+.person-prof {
+    font-family: "Open Sans", sans-serif;
+    font-size: 9pt;
+    color: #222;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 30px;
+}
+
+.marin-prof {
+    padding-left: 5px;
+}
+
+.mishina-prof {
+    padding-left: 50px;
+}
+
+.pisucova-prof {
+    padding-left: 40px;
+}
+
+.ilina-prof {
+    padding-left: 35px;
+}
+
+.ilyash-prof {
+    padding-left: 35px;
+}
+
+.rudnev-prof {
+    padding-left: 60px;
+}
+
+.person-quote {
+    padding-top: 5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13pt;
+    color: #69ba76;
+    font-style: italic;
+    padding-left: 70px;
+    text-align: left;
+}
+
+.person-links {
+    text-align: left;
+    padding-left: 75px;
+    padding-top: 20px;
+}
+
+.person-links-vk {
+    margin-top: 5px;
+}
+
+.person-links-fb {
+    margin-top: 5px;
+}
+
+.person-links a {
+    padding-left: 5px;
+    color: #707070;
+    font-family: "Open Sans", sans-serif;
+    font-size: 10pt;
+}
+
+.person-links span {
+    padding-top: 5px;
+}
+
+
+
