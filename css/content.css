@@ -1,8 +1,6 @@
 .content__team {
     width: 1000px;
-    height: 3400px;
     margin: 0 auto;
-    clear: both;
 }
 
 .content__info {
@@ -159,6 +157,12 @@
 
 .person-links span {
     padding-top: 5px;
+}
+
+.empty-clear {
+    height: 1px;
+    width: 100%;
+    clear: both;
 }
 
 
